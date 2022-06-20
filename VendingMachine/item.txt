@@ -1,0 +1,7 @@
+Item No:Item Name:Item Price:Item Stock:
+1:Coke:1.70:10:
+2:Fanta Grape:1.70:10:
+3:Mineral Water:1.00:10:
+4:Chips:3.50:10:
+5:Chocolate Bar:4.00:1:
+6:Chewing Gum:2.10:10:
